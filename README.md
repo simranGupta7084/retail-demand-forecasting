@@ -29,3 +29,6 @@ retail-demand-forecasting/
 ├── demand_forecasting.ipynb        # Full analysis, modelling, business translation
 ├── forecast_business_summary.png  # Actual vs forecast + cost impact visualization
 └── README.md
+
+## Dataset
+[Superstore Sales Dataset — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
